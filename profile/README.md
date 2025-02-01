@@ -1,6 +1,6 @@
-## African Research Collective
+## The African Research Collective
 
-Welcome to TARESCO (The African Research Collective) 
+Welcome to TARESCo (The African Research Collective) 
 We're a group of researchers working to improve Natural Language Processing for African languages. 
 
 ## What We're Working On
